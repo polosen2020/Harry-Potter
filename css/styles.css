@@ -1,0 +1,60 @@
+a:{
+	color: white;
+}
+a:hover{
+	color:pink;
+}
+header{
+	margin: 0;
+	padding: 0;
+	background-color: rgba(27, 58, 130,0.1);
+}
+.navbar{
+	background-color: rgba(27, 58, 130,1);
+	color: floralwhite;
+}
+.header{
+	font-size: 40px;
+	font-weight: 2em;
+
+}
+.jumbotron{
+	 padding-top: 5%;
+      padding-bottom: 5%;
+}	
+.first{
+	padding-top: 10px;
+	margin-top: 10px;
+}
+
+.nav-link{
+	color: floralwhite;
+}
+
+.footer{
+	background-color: rgba(0,0,0,0.2);
+}
+ .i1 { 
+    /*text-shadow: 2px 4px 6px white; */
+    color: white;
+    } 
+
+.row-content{
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 400px;
+}
+.carousel-item{
+	margin: 0;
+	padding: 0;
+}
+
+ .im{
+
+   	width: 1000px;
+   	height: 550px;
+   } 
+   .carousel-control-next{
+      left: 76%;
+}
